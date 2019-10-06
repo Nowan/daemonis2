@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/style/game.scss"],"names":[],"mappings":"AAAA;AACA;AACA,mBAAmB","file":"app.bundle.css","sourcesContent":["body {\n  margin: 0;\n  overflow: hidden; }\n"],"sourceRoot":""}
